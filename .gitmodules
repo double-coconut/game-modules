@@ -1,3 +1,6 @@
 [submodule "Packages/UIService"]
 	path = Packages/UIService
 	url = git@github.com:double-coconut/module-ui-service.git
+[submodule "Packages/ContextLoaderService"]
+	path = Packages/ContextLoaderService
+	url = git@github.com:double-coconut/module-context-loader-service.git
