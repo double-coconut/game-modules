@@ -7,6 +7,16 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
+    "com.doublecoconut.uiservice": {
+      "version": "file:UIService",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.cysharp.unitask": "",
+        "com.neuecc.unirx": "",
+        "com.svermeulen.extenject": ""
+      }
+    },
     "com.neuecc.unirx": {
       "version": "7.1.0",
       "depth": 0,

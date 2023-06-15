@@ -1,0 +1,3 @@
+[submodule "Packages/UIService"]
+	path = Packages/UIService
+	url = git@github.com:double-coconut/module-ui-service.git
