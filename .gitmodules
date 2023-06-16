@@ -4,3 +4,6 @@
 [submodule "Packages/ContextLoaderService"]
 	path = Packages/ContextLoaderService
 	url = git@github.com:double-coconut/module-context-loader-service.git
+[submodule "Packages/AudioPlayerService"]
+	path = Packages/AudioPlayerService
+	url = git@github.com:double-coconut/module-audio-player-service.git
