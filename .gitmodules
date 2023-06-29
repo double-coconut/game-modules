@@ -7,3 +7,6 @@
 [submodule "Packages/AudioPlayerService"]
 	path = Packages/AudioPlayerService
 	url = git@github.com:double-coconut/module-audio-player-service.git
+[submodule "Packages/RestClientService"]
+	path = Packages/RestClientService
+	url = git@github.com:double-coconut/module-restclient-service.git

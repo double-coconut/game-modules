@@ -7,35 +7,11 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
-    "com.doublecoconut.audioplayerservice": {
-      "version": "file:AudioPlayerService",
+    "com.doublecoconut.restclient": {
+      "version": "file:RestClientService",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {
-        "com.cysharp.unitask": "2.3.3",
-        "com.neuecc.unirx": "7.1.0",
-        "com.svermeulen.extenject": "9.2.0-stcf3"
-      }
-    },
-    "com.doublecoconut.contextloaderservice": {
-      "version": "file:ContextLoaderService",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.cysharp.unitask": "2.3.3",
-        "com.neuecc.unirx": "7.1.0",
-        "com.svermeulen.extenject": "9.2.0-stcf3"
-      }
-    },
-    "com.doublecoconut.uiservice": {
-      "version": "file:UIService",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.cysharp.unitask": "2.3.3",
-        "com.neuecc.unirx": "7.1.0",
-        "com.svermeulen.extenject": "9.2.0-stcf3"
-      }
+      "dependencies": {}
     },
     "com.neuecc.unirx": {
       "version": "7.1.0",
