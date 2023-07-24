@@ -10,3 +10,6 @@
 [submodule "Packages/RestClientService"]
 	path = Packages/RestClientService
 	url = git@github.com:double-coconut/module-restclient-service.git
+[submodule "Packages/WebSocketService"]
+	path = Packages/WebSocketService
+	url = git@github.com:double-coconut/module-web-socket-service.git
