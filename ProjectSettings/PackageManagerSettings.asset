@@ -30,8 +30,8 @@ MonoBehaviour:
     m_Url: https://package.openupm.com
     m_Scopes:
     - com.cysharp.unitask
-    - com.neuecc.unirx
     - com.svermeulen.extenject
+    - com.github-glitchenzo.nugetforunity
     m_IsDefault: 0
     m_Capabilities: 0
     m_ConfigSource: 4
@@ -45,8 +45,8 @@ MonoBehaviour:
       m_Url: https://package.openupm.com
       m_Scopes:
       - com.cysharp.unitask
-      - com.neuecc.unirx
       - com.svermeulen.extenject
+      - com.github-glitchenzo.nugetforunity
       m_IsDefault: 0
       m_Capabilities: 0
       m_ConfigSource: 4
@@ -55,6 +55,6 @@ MonoBehaviour:
     m_Url: https://package.openupm.com
     m_Scopes:
     - com.cysharp.unitask
-    - com.neuecc.unirx
     - com.svermeulen.extenject
+    - com.github-glitchenzo.nugetforunity
     m_SelectedScopeIndex: 0
