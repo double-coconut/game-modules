@@ -16,3 +16,6 @@
 [submodule "Packages/AssetDatabase"]
 	path = Packages/AssetDatabase
 	url = git@github.com:double-coconut/module-asset-database.git
+[submodule "Packages/DCLogger"]
+	path = Packages/DCLogger
+	url = git@github.com:double-coconut/dc-logger.git

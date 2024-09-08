@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f08f307a01d7d4965afaa681e0286512, type: 3}
+  m_Name: DCLoggerConfig
+  m_EditorClassIdentifier: 
+  moduleConfigs:
+  - {fileID: 11400000, guid: 5966e4310c18649cbbcadee9a24275a7, type: 2}
+  - {fileID: 11400000, guid: ff1da5cf729b240a180503ab10fd902f, type: 2}
+  - {fileID: 11400000, guid: 18834020b015548c08175df61830eb36, type: 2}
+  - {fileID: 11400000, guid: de115f26e99e445b99210665b1284870, type: 2}
+  - {fileID: 11400000, guid: 5b5d0b281c3f54707a413094a68fe0b2, type: 2}
+  - {fileID: 11400000, guid: 6ba300352ad6c41e7aa353487fbced4b, type: 2}
